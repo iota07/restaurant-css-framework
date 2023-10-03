@@ -19,9 +19,10 @@ This repository will be developped by myself exclusively in order to improve my 
 
 1. General Layout structure 
 2. Including nav bar
-3. Adding components
-4. Adding pictures
-5. Adding text content.
+3. Adding burger menu
+4. Adding components
+5. Adding pictures
+6. Adding text content.
 
 ### Author
 
