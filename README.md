@@ -32,6 +32,11 @@ Hanesana Nhouvannasak - [github](https://github.com/iota07)
 
 3rd October 2023
 
+### Licences
 
+images are copyright free from [unsplash](https://unsplash.com/)
+Photo by <a href="https://unsplash.com/@thomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Marban</a> on <a href="https://unsplash.com/photos/EHK-EH1SRzQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
+Photo by <a href="https://unsplash.com/@foodiesfeed?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jakub Kapusnak</a> on <a href="https://unsplash.com/photos/4f4YZfDMLeU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    
 
 

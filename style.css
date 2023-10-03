@@ -1,0 +1,24 @@
+@media only screen and (min-width: 992px) {
+    
+    /*center nav bar on desktop*/
+    .navbar .navbar-collapse {
+        justify-content: center;
+    }
+    
+    .navbar .navbar-toggler {
+        display: none; 
+    }
+}
+
+.jumbocase {
+    padding: 10px;
+    background-color: aqua;
+}
+
+.jumbotext {
+    font-size: 100px;
+    justify-content: center;
+    text-align: center;
+    margin:auto;
+
+}
