@@ -11,14 +11,31 @@
 }
 
 .jumbocase {
-    padding: 10px;
+    padding: 3px;
     background-color: aqua;
 }
 
 .jumbotext {
-    font-size: 100px;
-    justify-content: center;
+    
     text-align: center;
-    margin:auto;
+    margin:0;
+    padding:0;
 
+}
+
+.panel {
+    background-color: antiquewhite;
+}
+.panel-title {
+    color:brown;
+}
+.panel-footer {
+    color: blue;
+}
+.pgauche, .pdroite {
+    padding-top: 10px;
+}
+
+.indexPic{
+    margin-top:20px;
 }
