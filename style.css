@@ -24,37 +24,35 @@
     padding:0;
 }
 */
-/*
-.panel {
-    background-color: antiquewhite;
-}
-.panel-title {
-    color:brown;
-}
-.panel-footer {
-    color: blue;
-}
-.pgauche, .pdroite {
-    padding-top: 10px;
-}
-*/
+
 .indexPic{
     margin-top:20px;
 }
 .carousel-item {
-    height: 400px; /* Set your desired height here */
+    height: 400px;
 }
 
 .google-maps {
     position: relative;
-    padding-bottom: 75%; // This is the aspect ratio
+    padding-bottom: 75%;
     height: 0;
     overflow: hidden;
 }
-    .google-maps iframe {
+.google-maps iframe {    
     position: absolute;
     top: 0;
     left: 0;
     width: 100% !important;
     height: 100% !important;
+    transform: scale(0.8)
 }
+
+.mapRow {
+    margin:20px 50px;
+}
+
+.weekday {
+    width:100%;
+    list-style-type:none;
+}
+
