@@ -32,13 +32,13 @@
     height: 400px;
 }
 
-.google-maps {
+.google-map {
     position: relative;
     padding-bottom: 75%;
     height: 0;
     overflow: hidden;
 }
-.google-maps iframe {    
+.google-map iframe {    
     position: absolute;
     top: 0;
     left: 0;
