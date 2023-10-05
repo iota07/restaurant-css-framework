@@ -44,7 +44,7 @@ Photo by [Marina Grynykha](https://unsplash.com/@grynykha?utm_source=unsplash&ut
 
 Photo by [Mahmoud Fawzy](https://unsplash.com/@mahmoud_fawzy100?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Dbx6-XZY6Dg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-
+Image by [benzoix](https://www.freepik.com/free-photo/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products_17609794.htm) on Freepik
   
   
 

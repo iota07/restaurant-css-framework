@@ -10,6 +10,14 @@
     }
 }
 
+@media only screen and (min-width: 769px) {
+    
+    .calendar {
+        margin-left:50px;
+    }
+    
+    
+}
 
 /*
 .jumbocase {
@@ -32,21 +40,6 @@
     height: 400px;
 }
 
-.google-map {
-    position: relative;
-    padding-bottom: 75%;
-    height: 0;
-    overflow: hidden;
-}
-.google-map iframe {    
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
-    transform: scale(0.8)
-}
-
 .mapRow {
     margin:20px 50px;
 }
@@ -55,4 +48,3 @@
     width:100%;
     list-style-type:none;
 }
-
