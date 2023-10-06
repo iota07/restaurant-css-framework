@@ -18,7 +18,11 @@
     .navbar-logo {
         max-width: 30%;
         height: auto;
-      }
+    }
+    .audImg{
+        transform:scale(1);
+        text-align:right;
+    }
     
     
 }
@@ -32,19 +36,19 @@
   }
 
 
-.jumbocase {
-    height:70vh;
-    background-image:url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
-}
-
-.jumbotext {
-    
+.jumbotron {
     text-align: center;
     color: aliceblue;
     margin:0;
-    padding:0;
+    padding:0;    
+    background-image:url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
+    display: grid;
+    height: 75vh;
+    
 }
-*/
+
+
+
 
 header {
     margin-bottom: 30px;
@@ -59,12 +63,16 @@ header {
 body {
     background-image: url("img/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation.jpg");
     background-size:cover;
+    background-repeat: no-repeat;
 }
 
 
 .nav-link {
     padding:0;
-    margin:0 30px;    
-    font-family: 'Barlow', sans-serif;
+    margin:0;    
     font-family: 'Merienda', cursive;   
+}
+
+.formulaire {
+    max-width: 600px;
 }
