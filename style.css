@@ -22,14 +22,17 @@
     .audImg{
         transform:scale(1);
         text-align:right;
+
     }
-    
+    .google-map {
+        padding-left:50px;
+    }
     
 }
 
 @media (max-width: 768px) {
     .navbar-logo {
-      max-width: 25%;
+      max-width: 20%;
       height: auto;
     }
     
@@ -75,4 +78,14 @@ body {
 
 .formulaire {
     max-width: 600px;
+}
+
+.indexAds .card {
+    background-image: url('img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 0; 
+    box-shadow: none;
+    color:white;        
 }
