@@ -43,6 +43,11 @@ Photo by [Marina Grynykha](https://unsplash.com/@grynykha?utm_source=unsplash&ut
 Photo by [Mahmoud Fawzy](https://unsplash.com/@mahmoud_fawzy100?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Dbx6-XZY6Dg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Photo by [Riccardo Bergamini](https://unsplash.com/@deram31?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/O2yNzXdqOu0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+
+Photo by [Ahtziri Lagarde](https://unsplash.com/@ahtziri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/Fq13XX9mNvw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  
+Photo by [Richard Iwaki](https://unsplash.com/@roppongi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/2cpx1N7Us5Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
   
 
 Image by [benzoix](https://www.freepik.com/free-photo/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation_17600686.htm) on Freepik

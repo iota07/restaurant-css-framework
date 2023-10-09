@@ -1,26 +1,23 @@
 @media only screen and (min-width: 769px) {
-    
-    /*center nav bar on desktop*/
-    .navbar .navbar-collapse {
-        justify-content: center;
-    }
-    
+
     .navbar .navbar-toggler {
         display: none; 
     }
-}
-
-@media only screen and (min-width: 769px) {
-    
+    .navbar-brand {
+        max-width: 30%;
+    }
+    .nav-link {
+        padding: 0 0;
+    }
+       
     .calendar {
         margin-left:50px;
     }
     .navbar-logo {
-        max-width: 30%;
+        max-width: 50%;
         height: auto;
     }
     .audImg{
-        transform:scale(1);
         text-align:right;
 
     }
@@ -28,11 +25,13 @@
         padding-left:50px;
     }
     
+    
+    
 }
 
 @media (max-width: 768px) {
     .navbar-logo {
-      max-width: 20%;
+      max-width: 25%;
       height: auto;
     }
     
@@ -46,10 +45,9 @@
     padding:0;    
     background-image:url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
     display: grid;
-    height: 75vh;
+    
     
 }
-
 
 
 
@@ -67,17 +65,24 @@ body {
     background-image: url("img/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation.jpg");
     background-size:cover;
     background-repeat: no-repeat;
+    color:aliceblue;
+    height:100vh;
 }
 
-
-.nav-link {
-    padding:0;
-    margin:0;    
+h1{
     font-family: 'Merienda', cursive;   
+
+}
+.nav-link {
+    
 }
 
 .formulaire {
     max-width: 600px;
+    background-image: url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;   
+    
 }
 
 .indexAds .card {
@@ -88,4 +93,30 @@ body {
     border-radius: 0; 
     box-shadow: none;
     color:white;        
+}
+
+
+.menu .list-group{
+    border: none;
+    border-radius: 0;
+      
+}
+.menu .list-group-item{
+    background-color: rgba(0, 0, 0, 0.2);
+    color:aliceblue;
+    
+}
+
+.menu {
+    background-image:url("img/ahtziri-lagarde-4RRMdekxYuI-unsplash2140x3210.jpg") ;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+.menu h4{
+    text-align: center;
+    border-bottom: 1px solid white;
+    padding-top: 10px;
+
 }
