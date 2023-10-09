@@ -77,6 +77,7 @@ h1, .formulaire h4, .nav-item a{
     
 }
 
+
 .indexAds .card {
     background-image: url('img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg');
     background-size: cover;
@@ -116,6 +117,7 @@ h1, .formulaire h4, .nav-item a{
 .pagination {
     display: flex;
     justify-content: center;
+    
 }
 
 
@@ -133,6 +135,10 @@ h1, .formulaire h4, .nav-item a{
 .pagination a{
     background-image: url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
     color:aliceblue;
+}
+.page-item.active .page-link {
+    border-color:  rgba(218,123,14,1);
+    
 }
 
 figcaption {
