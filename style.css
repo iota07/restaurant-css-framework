@@ -17,10 +17,7 @@
         max-width: 50%;
         height: auto;
     }
-    .audImg{
-        text-align:right;
-
-    }
+    
     .google-map {
         padding-left:50px;
     }
@@ -46,9 +43,7 @@
     background-image:url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
     display: grid;
     
-    
 }
-
 
 
 header {
@@ -66,19 +61,16 @@ body {
     background-size:cover;
     background-repeat: no-repeat;
     color:aliceblue;
-    height:100vh;
+    min-height: 100vh;
 }
 
-h1{
+h1, .formulaire h4, .nav-item a{
     font-family: 'Merienda', cursive;   
 
 }
-.nav-link {
-    
-}
 
 .formulaire {
-    max-width: 600px;
+    max-width: 800px;
     background-image: url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
     background-size: cover;
     background-repeat:no-repeat;   
@@ -114,9 +106,35 @@ h1{
 
 }
 
-.menu h4{
+.menu h4, .contacts h4{
     text-align: center;
     border-bottom: 1px solid white;
     padding-top: 10px;
 
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+
+.page-item {
+    text-align: center;
+}
+
+.galleryPic, .contacts{
+    background-image: url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.pagination a{
+    background-image: url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
+    color:aliceblue;
+}
+
+figcaption {
+    text-align: center;
 }
