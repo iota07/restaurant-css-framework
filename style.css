@@ -156,7 +156,7 @@ footer p{
     
     
 }
-footer a {
+footer a, footer.a.href {
     text-decoration: none;
 }
 .fa {
