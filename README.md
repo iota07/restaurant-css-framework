@@ -32,6 +32,10 @@ Hanesana Nhouvannasak - [github](https://github.com/iota07)
 
 3rd October 2023
 
+### Live Demo
+
+['Restaurant Website'](https://iota07.github.io/restaurant-css-framework/index.html)
+
 ### Licences
 
 images are copyright free from [unsplash](https://unsplash.com/)
