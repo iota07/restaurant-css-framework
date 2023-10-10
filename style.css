@@ -22,7 +22,7 @@
         padding-left:50px;
     }
     
-    
+       
     
 }
 
@@ -152,6 +152,7 @@ footer {
   }
 footer p{
     text-align: center;
+    font-size: 0.8em;
     
 }
 .fa {
