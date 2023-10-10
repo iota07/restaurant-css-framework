@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Merienda&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -73,26 +74,32 @@
                           <li><a class="dropdown-item" href="#">Events</a></li>
                           <li><a class="dropdown-item" href="#">Customer Service</a></li>
                         </ul>
-                      </div>
+                    </div>
 
                     <div class="form-group">
                         <label for="name">Name</label>
-                        <input type="text" class="form-control" id="name" placeholder="Enter your name">
+                        <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
+                            <div class="invalid-feedback">
+                                Please enter your name.
+                            </div>
                     </div>
                     <div class="form-group">
                         <label for="surname">Surname</label>
-                        <input type="text" class="form-control" id="surname" placeholder="Enter your surname">
+                        <input type="text" class="form-control" id="surname" placeholder="Enter your surname" required>
+                            <div class="invalid-feedback">
+                                Please enter your surname.
+                            </div>
                     </div>
                     <div class="form-group" >
                       <label for="exampleInputEmail1">Email address</label>
                       <input type="email" class="form-control"  id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
                       <small id="emailHelp" class="form-text" style="color: rgb(236, 239, 242)">We'll never share your email with anyone else.</small>
-                      <div class="valid-feedback">
-                        Your email is valid!
-                      </div>
-                      <div class="invalid-feedback">
-                        Please enter a valid email.
-                      </div>
+                        <div class="valid-feedback">
+                            Your email is valid!
+                        </div>
+                        <div class="invalid-feedback">
+                            Please enter a valid email.
+                        </div>
                     </div>
                     <div class="form-group pb-3">
                         <textarea class="form-control" id="textarea" name="textarea" placeholder="Enter your text here"></textarea>
@@ -105,6 +112,31 @@
        
         
     </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-sm-4 p-2">
+                    <p>Phone:+81 (3) 1234-5678</p>
+                    <P>Restaurant@Han.co.jp</P>
+                </div>
+
+                <div class="col-sm-4 p-2">
+                    <p>© 2023 Han's</p>
+                </div>
+
+                <div class="col-sm-4 p-2">
+                    <p>
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+        
+    </footer>
 
     <script>
         //Bootstrap validation
@@ -128,6 +160,20 @@
       }, false)
     })
 })()
+    </script>
+    <script>
+        // Dropdown button text to change to <li> text
+        // Get the button and dropdown items
+        var button = document.getElementById("dropdownMenuButton2");
+        var dropdownItems = document.querySelectorAll(".dropdown-menu a");
+    
+        // Add a click event listener to each dropdown item
+        dropdownItems.forEach(function(item) {
+            item.addEventListener("click", function() {
+                // Set the button text to the text of the clicked item
+                button.textContent = item.textContent;
+            });
+        });
     </script>    
 </body>
 </html>

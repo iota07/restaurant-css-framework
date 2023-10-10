@@ -64,7 +64,7 @@ body {
     min-height: 100vh;
 }
 
-h1, .formulaire h4, .nav-item a{
+h1, .formulaire h4, .nav-item a, figcaption, .menu h4{
     font-family: 'Merienda', cursive;   
 
 }
@@ -110,7 +110,7 @@ h1, .formulaire h4, .nav-item a{
 .menu h4, .contacts h4{
     text-align: center;
     border-bottom: 1px solid white;
-    padding-top: 10px;
+    padding: 15px 0px;
 
 }
 
@@ -125,7 +125,7 @@ h1, .formulaire h4, .nav-item a{
     text-align: center;
 }
 
-.galleryPic, .contacts{
+.galleryPic, .contacts, footer{
     background-image: url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -144,3 +144,25 @@ h1, .formulaire h4, .nav-item a{
 figcaption {
     text-align: center;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: auto;        
+  }
+footer p{
+    text-align: center;
+    align-items: center;
+}
+.fa {
+    
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+  }
