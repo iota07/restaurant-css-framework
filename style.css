@@ -6,9 +6,7 @@
     .navbar-brand {
         max-width: 30%;
     }
-    .nav-link {
-        padding: 0 0;
-    }
+    
        
     .calendar {
         margin-left:50px;
@@ -42,6 +40,7 @@
     padding:0;    
     background-image:url("img/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg");
     display: grid;
+    
     
 }
 
@@ -165,4 +164,8 @@ footer p{
 
 .fa:hover {
     opacity: 0.7;
+}
+
+.nav-link {
+    padding:0;
 }
