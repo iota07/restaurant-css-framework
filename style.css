@@ -7,6 +7,7 @@
         max-width: 30%;
     }
     
+    
        
     .calendar {
         margin-left:50px;
@@ -19,7 +20,7 @@
     .google-map {
         padding-left:50px;
     }
-    
+     
        
     
 }
@@ -160,6 +161,7 @@ footer p{
     width: 50px;
     text-align: center;
     text-decoration: none;
+    transform:scale(2);
 }
 
 .fa:hover {
