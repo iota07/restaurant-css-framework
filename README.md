@@ -14,6 +14,8 @@ This repository will be developped by myself exclusively in order to improve my 
 * One include a gallery and a pagination
 * One include a map
 * One include a drop-down list with multiple options, and area of message and send button with an icon.
+* Form with email validation
+* GDPR as option (added as comment in index.html)
 
 ## Roadmap
 
@@ -23,6 +25,7 @@ This repository will be developped by myself exclusively in order to improve my 
 4. Adding components
 5. Adding pictures
 6. Adding text content.
+7. Adding social links, phone and email.
 
 ### Author
 
