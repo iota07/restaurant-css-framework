@@ -27,10 +27,6 @@ This repository will be developped by myself exclusively in order to improve my 
 6. Adding text content.
 7. Adding social links, phone and email.
 
-### Author
-
-Hanesana Nhouvannasak - [github](https://github.com/iota07)
-
 ### Project starting date
 
 3rd October 2023
@@ -63,8 +59,7 @@ Photo by [Drica Pinotti](https://unsplash.com/@dricapinotti?utm_content=creditCo
 
 Photo by [Matthieu Joannon](https://unsplash.com/@matt_j?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-Photo by [DLKR](https://unsplash.com/@thedlkr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-  
+Photo by [DLKR](https://unsplash.com/@thedlkr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)  
 
 Image by [benzoix](https://www.freepik.com/free-photo/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation_17600686.htm) on Freepik
   
